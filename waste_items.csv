@@ -1,0 +1,30 @@
+item,material,category,disposal_guidance,eco_tip
+plastic bottle,Plastic,Recyclable,Empty and rinse if appropriate; place with dry recyclable plastic according to local rules.,Choose reusable bottles to reduce single-use plastic.
+plastic bag,Plastic,Recyclable,Keep clean and dry; follow local plastic collection guidance.,Carry a reusable shopping bag.
+plastic food container,Plastic,Recyclable,"Empty, clean and dry before recycling where accepted.",Prefer reusable containers.
+milk packet,Plastic,Recyclable,Empty and rinse if required; follow local collection rules.,Reduce packaged products where practical.
+banana peel,Organic,Compostable,Place in an organic/compost stream where available.,Compost food scraps instead of sending them to landfill.
+vegetable peels,Organic,Compostable,Place in a compost or organic-waste stream.,Composting can return nutrients to soil.
+leftover food,Organic,Compostable,Use a food-waste/compost route where available; avoid contamination.,Plan portions to reduce food waste.
+tea leaves,Organic,Compostable,Add to a suitable compost stream.,Compost organic kitchen waste.
+newspaper,Paper,Recyclable,Keep dry and place with paper recycling.,Choose digital documents when practical.
+cardboard box,Paper,Recyclable,Flatten and keep clean and dry for paper/cardboard collection.,Reuse boxes before recycling.
+office paper,Paper,Recyclable,Keep paper dry and place in paper recycling.,Print only when needed.
+glass bottle,Glass,Recyclable,Handle carefully and use a glass recycling stream where available.,Reuse suitable glass containers.
+glass jar,Glass,Recyclable,Empty and rinse; recycle through an appropriate glass collection system.,Reuse jars for storage.
+steel food can,Metal,Recyclable,Empty and rinse; place with accepted metal packaging.,Prefer durable reusable products.
+aluminium can,Metal,Recyclable,Empty and rinse; place with accepted metal recycling.,Recycle cans rather than littering.
+old mobile phone,E-waste,Special Disposal,Do not place in ordinary household waste; use an authorized e-waste collection/recycling route.,"Repair, reuse or responsibly recycle electronics."
+broken charger,E-waste,Special Disposal,Use an appropriate e-waste collection/recycling route.,Avoid replacing electronics unnecessarily.
+laptop,E-waste,Special Disposal,Back up/remove personal data and use an appropriate e-waste recycling route.,Extend device life through repair or upgrades.
+used battery,Hazardous,Special Disposal,Keep out of regular waste; use an appropriate battery collection point.,Use rechargeable options where suitable.
+paint can,Hazardous,Special Disposal,Follow local hazardous-waste guidance; do not pour contents into drains.,Buy only the amount of paint needed.
+medicine blister pack,Other,Check Local Guidance,Follow local disposal guidance; do not flush medicines unless specifically instructed.,Avoid disposing of medicines through drains.
+cotton cloth,Textile,Reusable/Donation,"Reuse, donate, or use an appropriate textile collection route.",Choose durable clothing and repair when possible.
+old clothes,Textile,Reusable/Donation,Donate or use a textile collection/reuse route when suitable.,Extend clothing life through reuse and repair.
+wooden furniture,Wood,Reusable/Recovery,"Repair, donate, reuse, or use a suitable recovery service.",Choose repair and reuse before replacement.
+styrofoam food container,Plastic,Check Local Guidance,Check local acceptance; many recycling systems do not accept foam.,Avoid disposable foam where alternatives exist.
+used cooking oil,Other,Check Local Guidance,Do not pour into drains; use a suitable collection/recovery route where available.,Store used oil safely for appropriate collection.
+broken ceramic cup,Other,Check Local Guidance,Do not assume it belongs with glass recycling; follow local waste guidance.,Reuse intact ceramics and avoid unnecessary replacement.
+light bulb,Other,Special Handling,Handle carefully and follow local collection guidance for the bulb type.,Use energy-efficient lighting and dispose of lamps responsibly.
+soda can,Metal,Recyclable,Empty and rinse; recycle where metal cans are accepted.,Recycle beverage cans and avoid littering.
